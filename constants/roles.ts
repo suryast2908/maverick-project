@@ -1,0 +1,17 @@
+export const ROLES = [
+    "Not specified",
+    "Frontend Engineer",
+    "Backend Engineer",
+    "Full-Stack Engineer",
+    "Data Scientist",
+    "Data Analyst",
+    "DevOps Engineer",
+    "Site Reliability Engineer (SRE)",
+    "Mobile Engineer (iOS/Android)",
+    "AI/ML Engineer",
+    "Product Manager",
+    "UI/UX Designer",
+    "Security Engineer",
+    "Software Engineer in Test (SET)",
+    "Engineering Manager",
+];
